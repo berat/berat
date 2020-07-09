@@ -1,8 +1,6 @@
 ### Hello There! 👋
 
 I'm Berat from Ankara. I'm 21 years old. I've been studying computer enginering and also a freelance front-end developer. Plus I have a startup. Since I'm a student at the same time, I'm only available to work as a freelancer. I interest to React, Next.js, Vue.js, React Native, Node.js... <span style="color: green">I'm currently available for work </span>. You can reach to me at links below.
-<br> <br> 
-
 
 [beratbozkurt.net](https://beratbozkurt.net) - [Mail](mailto:me@beratbozkurt.net) - [Twitter](https://twitter.com/beratbozkurt0) - [Linkedin](https://www.linkedin.com/in/beratbozkurt/)
 <!--
