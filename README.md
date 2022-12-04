@@ -1,5 +1,14 @@
-### Hello There! 👋
+# Hi, I'm Berat 👋
 
-I'm Berat from Ankara. I'm 23 years old. I'm a <b>front-end developer</b>. Plus I screwed up a startup and learned very good experiences. Since I'm a student at the same time, I interest to React, Next.js, Vue.js, React Native, Node.js... You can reach to me at links below.
+I'm a **frontend developer** with 4+ years of experience building scalable and performance web and mobile applications. I focus on maintainability, performance and simplicity. 
 
 [beratbozkurt.net](https://beratbozkurt.net) - [Mail](mailto:me@beratbozkurt.net) - [Twitter](https://twitter.com/beratbozkurt0) - [Linkedin](https://www.linkedin.com/in/beratbozkurt/)
+
+## Technologies 💻
+
+- Javascript, Typescript
+- React.JS, React Native, Next.JS, Node.JS 
+- Redux, Redux Thunk, Redux Saga
+- Jest, Cypress
+- Sass, Styled Components
+- Git, CI/CD, Fastlane
