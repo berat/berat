@@ -24,4 +24,4 @@ Currently, I'm expanding deeper into backend and AI through FastAPI, PostgreSQL,
 - Developing Dreamary, an AI-powered dream journal app
 - Maintaining ReleaseHub, an open-source AI release notes CLI
 
-[beratbozkurt.net](https://beratbozkurt.net) - [Mail](mailto:me@beratbozkurt.net) - [Twitter](https://twitter.com/beratbozkurt0) - [Linkedin](https://www.linkedin.com/in/beratbozkurt/)
+[beratbozkurt.net](https://beratbozkurt.net) - [Mail](mailto:me@beratbozkurt.net) - [Twitter](https://twitter.com/beratbuilds) - [Linkedin](https://www.linkedin.com/in/beratbozkurt/)
